@@ -155,7 +155,7 @@ if img_inp is not None:
 st.markdown(
     """
     <div class="footer">
-        <p>Created with ❤️ by Nithish</p>
+        <p>Created by Raksith</p>
     </div>
     """,
     unsafe_allow_html=True,
