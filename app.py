@@ -100,7 +100,7 @@ st.markdown("<h2>Remove backgrounds from your images effortlessly!</h2>", unsafe
 with st.sidebar:
     st.markdown("<div class='sidebar-content'>", unsafe_allow_html=True)
     st.write("### About the Developer")
-    st.write("Nithish")
+    st.write("Raksith")
     st.caption("Follow me here ↓")
     st.write("[LinkedIn](https://www.linkedin.com/in/raksith-s-s-2aa49928b/)", unsafe_allow_html=True)
     st.write("[GitHub](https://github.com/RaksithSivakumar)", unsafe_allow_html=True)
